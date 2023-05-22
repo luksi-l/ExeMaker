@@ -1,13 +1,33 @@
 # ExeMaker
+This is a compiler written in batchscript that can generate executables from programming langugaes like python, batch, visual basic, etc. 
 
-this is a batch project that convert any file (python,batch,vbs...) to .exe
+> Small note: this compiler is only made for Windows OS of version 7 and above.
 
-what to do?
+## Installation
 
-step 1. put ExeMaker.bat to your desktop
-step 2. put your project to ExeMaker.bat
-step 3. wait for a few seconds
-step 4. enjoy! :)
+### Clone the repo 
 
-NOTE:on internet can say to this project can harm your computer...cause it's not verified publisher
-NOTE:your avast antivirus will for a second scan your .exe project that you made when you open it
+```shell
+git clone git@github.com:luksi-l/ExeMaker.git
+cd ExeMaker
+```
+
+> Or Download the binary from [here](https://github.com/luksi-l/ExeMaker/releases/)
+
+
+1. Copy the batch file to your project directory
+
+```powershell
+cp C:\<path>\ExeMaker.bat C:\<project_directory>\
+```
+  
+2. When prompted, add your project file that is to be compiled
+
+
+#### Safety Note 
+
++ Windows may prompt you about the file being "unsafe", click on `more info` followed by `run anyways`.
++ Antiviruses like Avast will for a second scan your project executable that you made when you run it. 
+
+> For personal safety, it is recommended to scan the file throught the local antivirus or on websites like VirusTotal and Intezer Analyze.
+
