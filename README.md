@@ -2,16 +2,19 @@
 
 this is a batch project that convert any file (python,batch,vbs...) to .exe
 
-what to do?
+## Installing it
 
-step 1. put ExeMaker.bat to your desktop
+step 1. get github repo on your PC
 
-step 2. put your project to ExeMaker.bat
+```
+git clone https://github.com/luksi-l/ExeMaker/
+```
 
-step 3. wait for a few seconds
+step 2. Go to ExeMaker folder
 
-step 4. enjoy! :)
+step 3. Move your project/file to ExeMaker.bat
 
+step 4. There you go!
 
 NOTE:on internet can say to this project can harm your computer...cause it's not verified publisher
 NOTE:your avast antivirus will for a second scan your .exe project that you made when you open it
