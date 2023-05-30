@@ -17,4 +17,7 @@ step 3. Move your project/file to ExeMaker.bat
 step 4. There you go!
 
 NOTE:on internet can say to this project can harm your computer...cause it's not verified publisher
+
 NOTE:your avast antivirus will for a second scan your .exe project that you made when you open it
+
+NOTE:ExeMaker is a batch file so it can be used only on windows
